@@ -1,0 +1,31 @@
+Hello! 
+
+This Movie Studios Scrape Folder contains tons of information and step by step walkthroughs. Here is what you are about to see:
+
+In chronological order:
+
+1) Using Scrapy to Scrape corresponding websites and info for visualization. See "Scrape Spiders python for Scrapy", they are labeled by movie studio! Inside
+each one will be the source website as well as the starting URL.
+Initially there was a 403 error, so also see Settings.py to see the User Agent that allowed for a successful connection.
+
+2) Scrapy has a command exclusive to the terminal. It looks like:
+
+scrapy crawl "name of spider"
+
+This command extended yields a unclean csv file. In terminal this looks like:
+
+scrapy crawl "name of spider" -o "name_of_csv".csv
+
+These CSV's were stored in our ----->  1 - Uncleaned CSV From Scrapy
+
+3) Review the IPYNB files in ------> 2 - Cleaning Each Scrape (NOTE these will not run unless you insert the NEW path of our 
+uncleaned CSV files. Initially they were in the same directory but for cleanliness all was seperated into it's own unique folder)
+
+As an overview for the above^^^^^^^ Each unclean CSV was reformatted from a df which was once a dictionary of lists. This 
+is the format Scrapy scraped from. 
+
+4) Enter the 3- Unclean-->clean Data!! 
+All CSV's from 3) (2 - cleaning each scrape) were imported and organized into this folder for our visualization IPYNB!
+
+5) Open visualization IPYNB. This grants insights into some of the weaker movie studios we have based off of there gross
+earnings. 
