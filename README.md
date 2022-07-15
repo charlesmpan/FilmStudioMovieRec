@@ -34,9 +34,33 @@ This repository includes the analysis of crucial data that supports our insights
 # Results
 
 ![GitHub Logo](/viz_images/ROI_combo_by_month.png)
+
+
 The above demonstrates that July release dates yield a higher ROI. 
 
 
+![GitHub Logo](/viz_images/roi_percent_visualization.png)
+
+
+The above demonstrates Genre VS Average ROI.
+
+
+![GitHub Logo](/viz_images/director_rating.png)
+
+
+The above demonstrates top three directors in horror.
+
+
+![GitHub Logo](/viz_images/actress_rating.png)
+
+
+The above demonstrates the top 3 actresses in horror.
+
+
+![GitHub Logo](/viz_images/actors_rating.png)
+
+
+The above demonstrates the top 3 actors in horror. 
 
 
 # Questions?
