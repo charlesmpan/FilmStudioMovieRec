@@ -4,29 +4,41 @@ Featuring:
 Abdulrahman Amer
 
 E-Mail: abdulrahman@freeyoursoundinstitute.com
+
 LinkedIn: https://www.linkedin.com/in/abdulrahman-amer-090557171/
+
 GitHub: https://github.com/AbdulrahmanAmer-R
+
 
 
 Benjamin Bai
 
 E-Mail: benjaminybai@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/benjamin-y-bai
+
 GitHub: https://github.com/benjaminybai
+
 
 
 Charles Pan
 
 E-Mail:     charlesmpan@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/charles-pan-/
+
 GitHub:    https://github.com/charlesmpan
+
 
 
 Kevin Rivera
 
 E-Mail: riverakevin2009@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/kevin-rivera-kr06/
+
 GitHub: https://github.com/icodepie
+
 
 
 
@@ -38,14 +50,19 @@ Our group has been tasked to assist Microsoft in venturing into the Movie Indust
 # Business Problem
 
 Microsoft has decided to create a new movie studio but has no insight into the industry. With an already developed industry full of strong competitors, Microsoft has tasked us to find the best entry point to join the market and stand on equal grounds with the current industry players. To begin, we have decided that the best way to tackle the problem at hand is to analyze the different sorts of data such as net income, movie rating, release date, movie casting, and genres from reliable databases. We have chosen to look at data from the past 10 years to have an understanding of current trends as well as potential growth. As a result of our research, we have concluded that the main three factors that we should target to compile a larger picture would be.
+
     1) Movie Genre's Return on Investment: What are the most profitable genre groups in terms of percentages?
+    
     2) Release Date: What is the most profitable month to release a movie?
+    
     3) Casting Choices: What are the current trending or well-performing actors, actresses, and directors in the current industry?
+    
     
 # Data
 
 We utilized three different data sources to conduct our research to have a better understanding of the industry.
     1) IMDB: One of the largest online databases for information regarding films, television series, and movies; generally used by the common populace for looking into shows or movies. The data we chose to utilize was the list of talent, such as actors, actresses, and directors and the movies they were associated with, movie names, genre, runtime, and rating. The data helped us analyze the performance of actors, actresses, and directors with the movies they participated in.
+    
     2) The Numbers (TN): A premier provider of movie industry data and research services. They are primarily used by major financial institutions, media companies, investors, and data analysis companies. The data we chose to utilize were mostly the financial data such as production budget, worldwide gross, and release dates. The data helped us analyze the most profitable months as well as the most profitable genres.
 
 # Methods
@@ -123,9 +140,12 @@ If you are interested in contributing to our study:
 
 Repository Structure
 
-├── README.md                        <- The top-level README for reviewers of this project
-├── microsoft_movie_analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── movie_analysis_slides.pdf        <- PDF version of project presentation
-├── movie_notebook.pdf               <- PDF version of Jupyter notebook
-├── data                             <- Both sourced externally and generated from code
-└── images                           <- Both sourced externally and generated from code
+├── README.md                        <- The README for reviewers of this project
+
+├── Movie_Analysis_ProjectP6.ipynb   <- Documentation of the analysis process in Jupyter notebook
+
+├── presentations.pdf                <- The presentation in PDF
+
+├── zippedData                       <- Both sourced externally and generated from code
+
+└── viz_images                       <- Storage for all images used
