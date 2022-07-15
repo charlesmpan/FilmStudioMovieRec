@@ -102,7 +102,7 @@ The following data presents our three actor candidate and their overall active m
 
 The following data presents the top ten actresses in terms of their average movie rating specific to the Horror genre on the X axis and the correlation of their movie rating to the last 10 years. With the data above, we chose three actresses who stood out with a focus on correlation while also decent average movie ratings.
 
-![GitHub Logo](/viz_images/actressrelationtohorror_rating.png)
+![GitHub Logo](/viz_images/actressrelationtohorrorrating.png)
 
 The following data presents our three actor candidate and their overall active movie ratings over last ten years. The candidates we chose were Amy Seimetz, Kate Bosworth, and Danielle Harris.
 
